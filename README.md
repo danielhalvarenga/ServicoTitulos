@@ -1,3 +1,3 @@
-# ServicoTitulos
+# Servico de cadastro de Títulos de propriedades
 
-Projeto criado para prática dos conte abordados no curso de Spring MVC, thymeleaf e bootstrap da Alga Works
+Projeto criado para prática dos conte abordados no curso de Spring MVC, thymeleaf e bootstrap
